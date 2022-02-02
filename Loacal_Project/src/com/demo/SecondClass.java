@@ -9,5 +9,12 @@ public class SecondClass
 		
 		System.out.println("How are You bro");
 		// i am added another commit to this class
+		
+		
+		System.out.println("i am again back to this ");
+		
+		// i am adding 3rd commit
+		
+		System.out.println("3 rd commited");
 	}
 }
