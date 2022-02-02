@@ -8,6 +8,32 @@ public class FirstClass {
 		
 		System.out.println("Hi Mr Manoj");
 		
+		int x=21;
+		if (x>=20)
+		{
+			System.out.println("larger number");
+		}
+		else
+		{
+			System.out.println("smaller number");
+		}
+		
+		// comment is added
+		System.out.println("hii manoj");
+		
+		int x=21;
+		if (x>=20)
+		{
+			System.out.println("larger number");
+		}
+		else
+		{
+			System.out.println("smaller number");
+		}
+		
+		// comment is added
+		System.out.println("hii manoj");
+		
 		
 
 	}
