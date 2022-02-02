@@ -25,9 +25,6 @@ public class SecondClass
 		
 		System.out.println("i am adding 5th commit");
 		
-		// 9th commit
-		System.out.println("i am adding 9th commit");
-		
 		
 		// 6th commit
 		System.out.println("i am adding 6th commit");
@@ -37,6 +34,12 @@ public class SecondClass
 		
 		// 8th commit only
 		System.out.println("i am adding 8th commit");
+		
+
+		// 9th commit
+		System.out.println("i am adding 9th commit");
+		
+		
 		
 	}
 }
