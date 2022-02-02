@@ -8,7 +8,10 @@ public class FirstClass {
 		
 		System.out.println("hii Mr Manoj");
 		
-		System.out.println("hii Mr uncle");
+		System.out.println("hii Mr");
+		
+		
+		
 		
 
 	}
